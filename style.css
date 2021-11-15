@@ -1,0 +1,40 @@
+body {
+  margin: 1px;
+  background-image: linear-gradient(to right, #0F2027, #203A43, #2C5364, #2C5364, #203A43, #0F2027);
+}
+/*
+.background{
+  background-color: gray;
+}
+*/
+
+#title{
+  padding-top: 30px;
+  color: white;
+  font-size: 35px;
+  font-family: fantasy;
+  font-weight: 200;
+}
+
+#box{
+  margin:auto;
+  color: gray;
+  border-radius: 4px;
+  top: 70px;
+  height: 500px;
+  max-height: 700px;
+  background-image: linear-gradient(45deg, #ffb34b, #fd8f1d, #f22f42);
+  border-color: none;
+}
+
+#card-header{
+  margin-top: auto;
+  background-image: linear-gradient(45deg, #ffb34b, #fd8f1d, #f22f42);
+  border-color: none;
+  border: none;
+}
+button{
+  background-image: linear-gradient(to right, #4beaff, #1dcdfd, #2f69f2);
+  border-color: none;
+  border: none;
+}
